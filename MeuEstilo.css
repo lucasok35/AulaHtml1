@@ -1,0 +1,18 @@
+
+	
+body{
+	background-color: blue;
+}
+
+h1{
+	color: red;
+	font-family: jokerman;
+}
+
+p{
+	color: white;
+}
+
+p.legal{
+	color: black;
+}
